@@ -4,7 +4,8 @@
 This is a basic non -responsive website design using HTML & CSS
 </p>
 
-# Tech Involved
+![tech](https://img.shields.io/badge/Tech%20Involved-FF8800?style=for-the-badge&logoColor=white)
+
 <ul>
 
 `HTML`
@@ -12,14 +13,14 @@ This is a basic non -responsive website design using HTML & CSS
 `CSS`
 </ul> 
 
-# How to Clone?
+![clone](https://img.shields.io/badge/How%20to%20Clone%20this%20project-7D4698?style=for-the-badge&logoColor=white)
 
 <p> go to your local projects and use below command </p>
 
  ``` git clone https://github.com/praveenAlluri22751/Restaurant.git ```
 
 
-# Lessons leraned while working on this project
+![learning](https://img.shields.io/badge/learning%20curve%20on%20below%20topics%20while%20working%20on%20this%20Project-1997B5?style=for-the-badge&logoColor=white)
 
 <ul>
 
@@ -28,11 +29,15 @@ This is a basic non -responsive website design using HTML & CSS
 >Basic onepage website design
 
 >CSS Flex
+
 </ul> 
 
-# About project model
-Welcome to Authentic South indian resto :yum:
-This i designed as a restaurant model for all kinds.have alook on this beautiful web.
+![about](https://img.shields.io/badge/About%20project-23D90007?style=for-the-badge&logoColor=white)
+
+This i designed as a restaurant model for all kinds.i used Css position and flex postions to build this template.
+
+Stay peace :lotus_position:
+
 ![resto](./thumbnail.png)
 
 
